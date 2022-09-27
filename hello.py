@@ -16,5 +16,13 @@ def hello_name(input_name):
     # return page_title
     return render_template('user.html',name = input_name)
 
+@app.errorhandler(404)
+def page_not_found(e):
+    return render_template('404.html'), 404
+
+@app.errorhandler(500)
+def unhandled_exception(e):
+    return render_template('500.html'), 500
+
 
 
