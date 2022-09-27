@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Flasky{% endblock %}
+{% block page_content %}
+<div class="page-header">
+    <h1>Hello, {{ name | capitalize }}!</h1>
+</div>
+<div class="body">
+    <p>This is the page you get when you add a name in the URL</p>
+</div>
+{% endblock %}
