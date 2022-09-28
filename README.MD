@@ -5,3 +5,11 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 ### Activity One
 
 ![Activity_1_Flask_Venv](https://user-images.githubusercontent.com/59378799/192688303-d8164759-3c22-40ea-8180-18d262acc240.JPG)
+
+### Activity Two
+
+![Activity_2_Commit_Example_2-1](https://user-images.githubusercontent.com/59378799/192688740-909b3e2c-7545-4697-87bb-b7199ed78223.JPG)
+
+![Activity_2_Commit_Example_2-2](https://user-images.githubusercontent.com/59378799/192688757-9fdbda10-aa0b-4a50-8b6a-e73b8bacd78a.JPG)
+
+![Activity_2_Dynamic_Route](https://user-images.githubusercontent.com/59378799/192688786-1560152b-8d9d-4284-a4a6-fe6e46a05714.JPG)
