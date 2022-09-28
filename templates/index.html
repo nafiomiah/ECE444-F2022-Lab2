@@ -3,7 +3,9 @@
 {% block title %}Flasky{% endblock %}
 {% block page_content %}
 <div class="page-header">
-    <h1>Hello, {% if name %}{{ name | capitalize }}{% else %}Stranger{% endif %}!</h1>
+    <h1>Hello, {% if name %}{{ name | title }}{% else %}Stranger{% endif %}!</h1>
+    <h1>{% if email and isUofTEmail %}Your UofT email is {{email}}{%endif%}
+        {% if email and not isUofTEmail %}Please use your UofT email.{% endif %}</h1>
 </div>
 {{ wtf.quick_form(form) }}
 {% endblock %}
