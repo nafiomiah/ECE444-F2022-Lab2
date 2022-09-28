@@ -24,3 +24,16 @@ Note: Activity Three code is in the activity_three branch.
 
 ![Activity_3_Index_Timestamps_Bootstrap_Base](https://user-images.githubusercontent.com/59378799/192689391-0d4cd5b8-a37a-4a91-a29e-5fd654ad7f7e.JPG)
 
+### Activity Four
+
+Note: Activity Four code is in the activity_four branch.
+
+![Activity_4_Screenshot_1](https://user-images.githubusercontent.com/59378799/192693868-7c021267-34a3-4db4-b838-2c8261869e1d.JPG)
+
+![Activity_4_Screenshot_2](https://user-images.githubusercontent.com/59378799/192693928-de13f495-36c6-47ef-9c8f-f57ba338d0cd.JPG)
+
+<img width="957" alt="Activity_4_Screenshot_3" src="https://user-images.githubusercontent.com/59378799/192693986-3cf70728-ea3c-446e-9aa1-dd0ab28399ba.png">
+
+![Activity_4_Screenshot_4](https://user-images.githubusercontent.com/59378799/192694007-a2793e7c-ba10-4390-84f9-f9d925645953.JPG)
+
+
